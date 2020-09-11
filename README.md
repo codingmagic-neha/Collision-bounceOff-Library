@@ -1,2 +1,2 @@
-# Collision-bounceOff-Library
-created using VCS.
+# collisionAlgorithm
+Algorithm to detect collision between two objects
